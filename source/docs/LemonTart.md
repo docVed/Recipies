@@ -2,7 +2,7 @@
 
 Recipe adapted from QPO Lemon tart recipe, makes one two or four TBD cm tart.
 
-## Sweet pastry
+## Sweet Pastry
 
 ### Equipment
 
