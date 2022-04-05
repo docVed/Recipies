@@ -28,11 +28,12 @@ author = '-'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'recommonmark',
+    'myst_parser',
     'sphinx_markdown_tables' ]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
+html_static_path = ['_static']
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
@@ -44,16 +45,13 @@ source_suffix = {
     '.rst': 'restructuredtext',
     '.md': 'markdown'}
 
-source_parsers = {
-    '.md': 'recommonmark.parser.CommonMarkParser',
-}
-
 # -- Options for HTML output -------------------------------------------------
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
 html_theme = 'nature'
+myst_heading_anchors = 3
 #html_theme = 'sphinx_rtd_theme'
 #html_theme_options = {    'logo_only': True,
 #    'display_version': True,
@@ -65,10 +63,10 @@ html_theme = 'nature'
 #    'includehidden': True,
 #    'titles_only': False}
 html_title = "Recipes"
+html_sidebars = { }
 #html_logo = "path/to/logo.png"
 #html_favicon = "path/to/favicon.ico"
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-#html_static_path = ['_static']
 
