@@ -12,6 +12,11 @@ Recipe Collection
 
    docs/NonnasSauce.md
    docs/LemonTart.md
+   docs/PieCrust/PieCrust.md
+   docs/StrawberryRhubarbPie.md
+
+
+
 
 Indices and tables
 ==================
