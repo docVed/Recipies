@@ -12,6 +12,8 @@ set BUILDDIR=docs
 
 if "%1" == "" goto help
 
+if "%1" == "deploy" goto deploy
+
 %SPHINXBUILD% >NUL 2>NUL
 if errorlevel 9009 (
 	echo.
@@ -26,6 +28,13 @@ if errorlevel 9009 (
 )
 
 %SPHINXBUILD% -M %1 %SOURCEDIR% %BUILDDIR% %SPHINXOPTS% %O%
+goto end
+
+:deploy
+%SPHINXBUILD% -M html %SOURCEDIR% %BUILDDIR% %SPHINXOPTS% %O%
+rem copy to the docs directory for github to recognise it
+XCOPY /E /H /Y /C "%BUILDDIR%\html\*" "%BUILDDIR%"
+
 goto end
 
 :help

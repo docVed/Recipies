@@ -1,3 +1,6 @@
 .env
-build
 *.pickle
+docs/doctrees
+docs/html
+docs/htmldir
+
