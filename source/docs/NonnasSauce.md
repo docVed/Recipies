@@ -1,5 +1,11 @@
 # Nonna's Sauce
 
+
+## Equipment
+
+* White cotton string (for boquet garni)
+* Stock pot
+
 ## Ingredients
 
 | Quantity | Ingredient                                                 |
@@ -18,7 +24,6 @@
 |          |                                                            |
 |        2 | 720 ml bottles of plain passata                            |
 |        1 | teaspoon of salt (more or less to taste)                   |
-
 
 ## Method
 

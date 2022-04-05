@@ -9,21 +9,24 @@ Recipe adapted from QPO Lemon tart recipe, makes one two or four TBD cm tart.
 * Mixing bowl
 * Scales
 * Kitchen mixer (or elbow grease)
-* TBD cm tart tin or ceramic baking dish
-* Baking paper and rolling pin
+* 30 cm tart tin or ceramic baking dish
+* Baking paper 
+* Rolling pin
 * Dry rice, beans or ceramic baking beads
-  
+```{note}
+A silicone or plastic baking/dough mat is quite handy when rolling out the dough. When a food safe flat surface is not available
+```
 
 ### Ingredients
 
-| Ingredient  | 4 tarts| 2 tarts| 1 tart | unit  |
-| :---------- | ---: | --: | ----: | :---------- |
-| Flour       | 1250 | 625 | 312   | g           |
-| Soft Butter | 450  | 225 | 112   | g           |
-| Salt        | 1/2  | 1/4 | 1/8   | tsp         |
-| Icing Sugar | 450  | 225 | 112   | g           |
-|             |
-| Whole Eggs  | 7    | 4   | 2     | medium eggs |
+| Ingredient  | 4 tarts | 2 tarts | 1 tart | unit        |
+| :---------- | ------: | ------: | -----: | :---------- |
+| Flour       |    1250 |     625 |    312 | g           |
+| Soft Butter |     450 |     225 |    112 | g           |
+| Salt        |     1/2 |     1/4 |    1/8 | tsp         |
+| Icing Sugar |     450 |     225 |    112 | g           |
+|             |         |         |        |             |
+| Whole Eggs  |       7 |       4 |      2 | medium eggs |
 
 ### Steps
 
@@ -55,14 +58,14 @@ Recipe adapted from QPO Lemon tart recipe, makes one two or four TBD cm tart.
 
 ### Ingredients
 
-| Ingredient   | 4    | 2   | 1   | Unit        |
-|:-------------|-----:|----:|----:|:------------|
+| Ingredient   |    4 |   2 |   1 | Unit        |
+| :----------- | ---: | --: | --: | :---------- |
 | Castor sugar | 1000 | 500 | 250 | g           |
-| Whole Eggs   | 20   | 10  | 5   | medium eggs |
-|
+| Whole Eggs   |   20 |  10 |   5 | medium eggs |
+|              |      |     |     |             |
 | Lemon Juice  | 1000 | 500 | 250 | ml          |
 | Cream        | 1000 | 500 | 250 | ml          |
-| Lemon Peel   | 2-4  | 1-2 | 1   | peels       |
+| Lemon Peel   |  2-4 | 1-2 |   1 | peels       |
 
 ### Steps
 
@@ -85,14 +88,14 @@ This sauce can be used as drizzle on tarts, but also can be diluted with mineral
 
 ### Ingredients
 
-| Ingredient   | Value    | Unit        |
-|:-------------|---------:|:------------|
-| Water        | 200      | ml          |
-| Orange Juice | 300      | ml          |
-| Lemon Juice  | 300      | ml          |
-| White Sugar  | 300      | g           |
-|
-| Lemon Zest   | to taste |             |
+| Ingredient   |    Value | Unit |
+| :----------- | -------: | :--- |
+| Water        |      200 | ml   |
+| Orange Juice |      300 | ml   |
+| Lemon Juice  |      300 | ml   |
+| White Sugar  |      300 | g    |
+|              |          |      |
+| Lemon Zest   | to taste |      |
 
 ### Steps
 
