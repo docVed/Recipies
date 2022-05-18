@@ -34,7 +34,8 @@ goto end
 %SPHINXBUILD% -M html %SOURCEDIR% %BUILDDIR% %SPHINXOPTS% %O%
 rem copy to the docs directory for github to recognise it
 XCOPY /E /H /Y /C "%BUILDDIR%\html\*" "%BUILDDIR%"
-
+rem auto replace .nojekyll file to stop github building docs
+type nul > "%BUILDDIR%\.nojekyll"
 goto end
 
 :help
