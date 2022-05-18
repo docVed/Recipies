@@ -1,6 +1,5 @@
 # Nonna's Sauce
 
-
 ## Equipment
 
 * White cotton string (for boquet garni)
@@ -32,5 +31,3 @@
 3. Add grated carrot and chopped celery. Stir well and cook until celery is softened.
 4. Add both bottles of sauce, salt and bouquet garni. Stir and bring to boil.
 5. Reduce heat to simmer and stir every 20-30 mins for 1.5-2 hours. Sauce is done when red oil is visible on the surface of the sauce.
-
-
