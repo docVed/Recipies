@@ -17,10 +17,6 @@ recipe
 A silicone or plastic baking/dough mat is quite handy when rolling out the dough. When a food safe flat surface is not available
 
 ```
-2 1/2 cups (325 grams) flour
-1 tablespoon (15 grams) granulated sugar
-1 teaspoon (5 grams) fine sea or table salt
-1 cup (8 ounces or 225 grams) unsalted butter, very cold
 
 ## Ingredients
 
