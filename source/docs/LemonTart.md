@@ -19,19 +19,19 @@ A silicone or plastic baking/dough mat is quite handy when rolling out the dough
 
 ### Ingredients
 
-| Ingredient  | 4 tarts | 2 tarts | 1 tart | unit        |
-| :---------- | ------: | ------: | -----: | :---------- |
-| Flour       |    1250 |     625 |    312 | g           |
-| Soft Butter |     450 |     225 |    112 | g           |
-| Salt        |     1/2 |     1/4 |    1/8 | tsp         |
-| Icing Sugar |     450 |     225 |    112 | g           |
-|             |         |         |        |             |
-| Whole Eggs  |       7 |       4 |      2 | medium eggs |
+| Ingredient         | 4 tarts | 2 tarts | 1 tart | unit        |
+| :----------------- | ------: | ------: | -----: | :---------- |
+| Flour              |    1250 |     625 |    312 | g           |
+| Soft/melted Butter |     450 |     225 |    112 | g           |
+| Salt               |     1/2 |     1/4 |    1/8 | tsp         |
+| Icing Sugar        |     450 |     225 |    112 | g           |
+|                    |         |         |        |             |
+| Whole Eggs         |       7 |       4 |      2 | medium eggs |
 
 ### Steps
 
 1. preheat oven to **220 C**.
-2. Mix Softened **butter, flour, sugar** and **salt** using a flat beater in a kitchen mixer until it starts to break up.
+2. Mix Softened/melted **butter, flour, sugar** and **salt** using a flat beater in a kitchen mixer until it starts to break up.
 3. Slowly add **eggs** until smooth dough is formed, but do not over work the dough.
 4. If making multiple tarts, split into multiple 600g balls.
 5. Can be stored in the fridge for a few hours to stiffen dough, making it easier to roll out without sticking.
