@@ -1,4 +1,4 @@
-# Really Flakey Pie Crust
+# Really Flaky Pie Crust
 
 Very light modification of [Smitten Kitchen's](https://smittenkitchen.com/2008/11/pie-crust-102-all-butter-really-flaky-pie-dough/)
 recipe
@@ -19,15 +19,15 @@ A silicone or plastic baking/dough mat is quite handy when rolling out the dough
 
 ## Ingredients
 
-| quantity             | Ingredient            |
-| :------------------- | :-------------------- |
-| 325 grams            | all-purpose flour     |
-| 15 grams             | granulated sugar      |
-| 1 teaspoon (5 grams) | table salt            |
-|                      |                       |
-| 225 grams            | cold, unsalted butter |
-|                      |                       |
-| 120 + 60 grams       | very cold water       |
+| quantity        | Ingredient            |
+| :-------------- | :-------------------- |
+| 325 grams       | all-purpose flour     |
+| 15 grams        | granulated sugar      |
+| 1 tsp (5 grams) | table salt            |
+|                 |                       |
+| 225 grams       | cold, unsalted butter |
+|                 |                       |
+| 120 + 60 grams  | very cold water       |
 
 1. Place flour, sugar, and salt in a large bowl and whisk to combine.
 2. Cut butter into small 1 cm cubes and add them to flour mixture.

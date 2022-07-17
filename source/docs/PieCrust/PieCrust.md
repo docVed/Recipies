@@ -4,8 +4,8 @@
 
 ## Sweet Crusts
 
-* [Really Flakey Pie Crust](FlakeyPieCrust.md)
-* [Extra Flakey Pie Crust](ExtraFlakeyPieCrust.md)
+* [Really Flaky Pie Crust](FlakyPieCrust.md)
+* [Extra Flaky Pie Crust](ExtraFlakyPieCrust.md)
 * [Tart crust](../LemonTart.md)
 
-## Savory Crusts
+## Savoury Crusts
