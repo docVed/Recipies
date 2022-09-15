@@ -8,14 +8,19 @@ Recipe Collection
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contents:
+   :caption: Sweet:
 
-   docs/NonnasSauce.md
-   docs/LemonTart.md
    docs/PieCrust/PieCrust.md
    docs/StrawberryRhubarbPie.md
+   docs/LemonTart.md
 
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Savory:
+
+   docs/savory/Ramen.md
+   docs/savory/NonnasSauce.md
 
 
 Indices and tables

@@ -2,8 +2,8 @@
 
 ## Equipment
 
-* White cotton string (for boquet garni)
-* Stock pot
+* White cotton string (for bouquet garni)
+* Stockpot
 
 ## Ingredients
 
@@ -29,5 +29,5 @@
 1. Tie herbs into a "bouquet garni" with white cotton string. Put bay leaves on the outside and wrap the string multiple times up and down the length of the bunch using a knot at the end.
 2. Add oil to saucepan and fry onion and garlic on medium heat until softened.
 3. Add grated carrot and chopped celery. Stir well and cook until celery is softened.
-4. Add both bottles of sauce, salt and bouquet garni. Stir and bring to boil.
+4. Add both bottles of sauce, salt, and bouquet garni. Stir and bring to boil.
 5. Reduce heat to simmer and stir every 20-30 mins for 1.5-2 hours. Sauce is done when red oil is visible on the surface of the sauce.
