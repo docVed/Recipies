@@ -1,4 +1,4 @@
-# Ramen
+# Okinomiyaki
 
 ## Equipment
 
