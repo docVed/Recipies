@@ -13,21 +13,21 @@ Use this filling with the  [Extra Flaky Pie Crust](PieCrust/ExtraFlakyPieCrust.m
 
 ## Ingredients
 
-| quantity | Ingredient                                                          |
-| :------- | :------------------------------------------------------------------ |
-| 1        | [Extra Flaky Pie Crust Dough](PieCrust/ExtraFlakyPieCrust.md)       |
+| Quantity | Ingredient                                                          |
+|---------:|:--------------------------------------------------------------------|
+|        1 | [Extra Flaky Pie Crust Dough](PieCrust/ExtraFlakyPieCrust.md)       |
 |          |                                                                     |
-| 300 g    | Diced rhubarb (about one supermarket bunch, two if feeling opulent) |
-| 500 g    | strawberries, hulled and sliced if big, halved if tiny              |
-| 100 g    | granulated sugar                                                    |
-| 50 g     | light brown sugar                                                   |
-| 1 tbsp   | lemon juice                                                         |
-| 1/4 tsp  | salt                                                                |
-| 1/3 cup  | quick-cooking tapioca (or arrowroot powder)                         |
+|    300 g | Diced rhubarb (about one supermarket bunch, two if feeling opulent) |
+|    500 g | strawberries, hulled and sliced if big, halved if tiny              |
+|    100 g | granulated sugar                                                    |
+|     50 g | light brown sugar                                                   |
+|   1 tbsp | lemon juice                                                         |
+|  1/4 tsp | salt                                                                |
+|  1/3 cup | quick-cooking tapioca (or arrowroot powder)                         |
 |          |                                                                     |
-| 30 gm    | unsalted butter, cut into small pieces (approx 2 tbsp) ,optional    |
+|    30 gm | unsalted butter, cut into small pieces (approx 2 tbsp) ,optional    |
 |          |                                                                     |
-| 1        | egg yolk or some milk (for glaze)                                   |
+|        1 | egg yolk or some milk (for glaze)                                   |
 |          |                                                                     |
 
 

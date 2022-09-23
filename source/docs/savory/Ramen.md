@@ -1,6 +1,8 @@
 # Ramen
 
 ## Equipment
+Stock pot
+zip-lock bag
 
 
 ## Ingredients
@@ -56,13 +58,14 @@
 
 Prepare ahead of time. Must marinate between 2 hours and 24 hours before serving.
 
-1. Pre-boil water in a small pot
-2. Gently lower eggs into pot with a spoon
-3. Boil for 6.5 minutes
-4. Prepare a bowl of cold (preferably iced) water
-5. In a separate container, mix soy sauce, mirin, vinegar, and Chinese 5 spice powder 
-6. Drain eggs and put in the cold water for at least one minute.
-7. Gently shell the eggs (starting from the wider end first)
+1. In a small saucepan, mix **soy sauce**, **mirin**, **vinegar**, and **Chinese 5 spice** 
+2. Bring marinade to the boil, then remove heat and let sit
+3. Pre-boil water in a small pot
+4. Gently lower **eggs** into pot with a spoon and Boil for 6.5 minutes
+5. Prepare a bowl of cold (preferably iced) water
+6. Drain eggs and dunk in cold water for at least one minute.
+7. Gently shell the eggs (starting from the wider end first) and place them into a zip-lock bag.
+8. Fill the zip-lock bag with marinade, remove air to ensure all parts of the eggs are submerged and refrigerate for 2-24 hours.
 
 ### Ramen Broth
 
@@ -87,7 +90,7 @@ Prepare ahead of time. Must marinate between 2 hours and 24 hours before serving
    
 ### Assembly
 
-1. Dose a generous portion of broth into a large bowl
+1. Serve a generous portion of broth into a large bowl (at least 2-3 ladles )
 2. Place half the noodles in the broth.
 3. Halve marinated eggs and place them around the bowl amongst the other toppings.
 4. sprinkle more sesame seeds on top if desired.

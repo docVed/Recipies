@@ -47,8 +47,6 @@
 
 ## Method
 
-### Marinated Ramen Eggs
-
 1.	In a large bowl, whisk together Okonomiyaki Flour and Water until smooth.
 2.	Add Eggs, Cabbage, Onions, Ginger, and mix, but don't over mix.
 3.	Oil a griddle that has been heated to 200C (400F) and add Okonomiyaki mixture divided into two pancakes.

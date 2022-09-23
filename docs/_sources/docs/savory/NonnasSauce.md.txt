@@ -1,4 +1,6 @@
-# Nonna's Sauce
+# Nonna's Pasta Sauce
+
+This sauce is a base for use in other pasta sauces or lasagna.
 
 ## Equipment
 

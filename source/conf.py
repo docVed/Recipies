@@ -50,18 +50,18 @@ source_suffix = {
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'nature'
-myst_heading_anchors = 3
-#html_theme = 'sphinx_rtd_theme'
-#html_theme_options = {    'logo_only': True,
-#    'display_version': True,
-#    'prev_next_buttons_location': 'bottom',
-#    'style_external_links': True,
-#    # Toc options    'collapse_navigation': False,
-#    'sticky_navigation': False,
-#    'navigation_depth': 3,
-#    'includehidden': True,
-#    'titles_only': False}
+#html_theme = 'nature'
+#myst_heading_anchors = 3
+html_theme = 'sphinx_rtd_theme'
+html_theme_options = {    'logo_only': True,
+    'display_version': True,
+    'prev_next_buttons_location': 'bottom',
+    'style_external_links': True,
+    # Toc options    'collapse_navigation': False,
+    'sticky_navigation': False,
+    'navigation_depth': 3,
+    'includehidden': True,
+    'titles_only': False}
 html_title = "Recipes"
 html_sidebars = { }
 #html_logo = "path/to/logo.png"

@@ -10,10 +10,10 @@ Recipe Collection
    :maxdepth: 1
    :caption: Sweet:
 
-   docs/sweet/PieCrust/PieCrust.md
+   docs/sweet/PieCrust/PieCrust.rst
    docs/sweet/StrawberryRhubarbPie.md
    docs/sweet/LemonTart.md
-
+   docs/sweet/NonnasCoconutBiscuits.md
 
 .. toctree::
    :maxdepth: 1
@@ -27,5 +27,5 @@ Recipe Collection
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`search`
+.. * :ref:`genindex`
+.. * :ref:`search`
