@@ -1,9 +1,11 @@
 # Ramen
 
 ## Equipment
-Stock pot
-zip-lock bag
 
+- Stock pot
+- frying pan
+- small pot
+- zip-lock bag
 
 ## Ingredients
 
@@ -13,22 +15,23 @@ zip-lock bag
 |                  |                                                 |
 |                  | **RAMEN EGGS**                                  |
 |                  |                                                 |
-|                4 | eggs                                            |
 |          1/2 cup | soy sauce                                       |
 |           1 tbsp | mirin                                           |
 |            1 tsp | rice wine vinegar                               |
 |            1 tsp | chinese 5 spice powder                          |
 |                  |                                                 |
+|                4 | eggs                                            |
+|                  |                                                 |
 |                  | **BROTH**                                       |
 |                  |                                                 |
 |         1.5 tbsp | sesame seeds                                    |
 |                  |                                                 |
-|           3 tbsp | fresh ginger, minced minced (~6 cm of the root) |
+|     3 tbsp (45g) | fresh ginger, minced minced (~6 cm of the root) |
 |                5 | garlic cloves, minced                           |
 |                1 | small brown onion, minced/very finely diced     |
 |           1 tbsp | sesame oil                                      |
 |                  |                                                 |
-|             225g | Quorn mince                                     |
+|             225g | Quorn mince (or pork mince)                     |
 |                  |                                                 |
 |           1 tbsp | Doubanjiang: Spicy or Non-Spicy Bean Paste      |
 |     3 tbsp (60g) | yellow or red miso paste                        |
@@ -49,6 +52,7 @@ zip-lock bag
 |                  |                                                 |
 |                3 | green stalks from spring onion                  |
 |                2 | noori (sushi noori) cut into small rectangles   |
+|       *optional* | bok choi                                        |
 |       *optional* | chilli oil                                      |
 |       *optional* | sesame seeds                                    |
 
@@ -59,7 +63,7 @@ zip-lock bag
 Prepare ahead of time. Must marinate between 2 hours and 24 hours before serving.
 
 1. In a small saucepan, mix **soy sauce**, **mirin**, **vinegar**, and **Chinese 5 spice** 
-2. Bring marinade to the boil, then remove heat and let sit
+2. Bring marinade to a boil, then remove heat and let sit
 3. Pre-boil water in a small pot
 4. Gently lower **eggs** into pot with a spoon and Boil for 6.5 minutes
 5. Prepare a bowl of cold (preferably iced) water
@@ -79,14 +83,14 @@ Prepare ahead of time. Must marinate between 2 hours and 24 hours before serving
 
 ### Ramen Noodles
 
-1. Bring water to the boil, then add **noodles**
+1. Bring water to a boil, then add **noodles**
 2. After 4 minutes (or as directed by packet) strain.
 
 ### Toppings
 
-1. Thinly slice spring onions at an acute angle (knife should be at least 60 degrees from perpendicular) into rounds. 
-2. Fry corn kernels in butter until they turn dark yellow.
-3. Separately fry shitake mushrooms until shrunken, but not browned.
+1. Thinly slice **spring onions** at an acute angle (knife should be at least 60 degrees from perpendicular) into rounds. 
+2. Fry **corn** kernels in **butter** until they turn dark yellow.
+3. Separately fry **shitake** mushrooms until shrunken, but not browned.
    
 ### Assembly
 
