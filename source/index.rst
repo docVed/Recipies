@@ -10,18 +10,19 @@ Recipe Collection
    :maxdepth: 1
    :caption: Sweet:
 
-   docs/sweet/PieCrust/PieCrust.rst
-   docs/sweet/StrawberryRhubarbPie.md
    docs/sweet/LemonTart.md
    docs/sweet/NonnasCoconutBiscuits.md
+   docs/sweet/PieCrust/PieCrust.rst
+   docs/sweet/StrawberryRhubarbTart.md
+   docs/sweet/StrawberryRhubarbPie.md
 
 .. toctree::
    :maxdepth: 1
    :caption: Savory:
 
    docs/savory/Ramen.md
-   docs/savory/Okonomiyaki.md
    docs/savory/NonnasSauce.md
+   docs/savory/Okonomiyaki.md
 
 
 Indices and tables

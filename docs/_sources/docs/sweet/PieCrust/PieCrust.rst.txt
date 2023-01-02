@@ -5,6 +5,6 @@ Pie Crusts
    :maxdepth: 1
    :caption: Sweet:
 
-   FlakyPieCrust.md
    ExtraFlakyPieCrust.md
-   ../LemonTart.md
+   FlakyPieCrust.md
+   SweetTartCrust.md

@@ -23,7 +23,7 @@ A silicone or plastic baking/dough mat is quite handy for rolling out the dough 
 | :------------- | :-------------------- |
 | 260 grams      | all-purpose flour     |
 | 15 grams       | granulated sugar      |
-| 3/4 teaspoon   | table salt            |
+| 3/4 tsp (5g)   | table salt            |
 |                |                       |
 | 230 grams      | cold, unsalted butter |
 |                |                       |

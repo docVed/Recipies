@@ -1,8 +1,7 @@
-# Strawberry and Rhubarb Pie Filling
+# Strawberry and Rhubarb Pie
 
 Very light modification of [Smitten Kitchen's](https://smittenkitchen.com/2010/06/strawberry-rhubarb-pie-improved/)
 recipe
-Use this filling with the  [Extra Flaky Pie Crust](PieCrust/ExtraFlakyPieCrust.md)
 
 ## Equipment
 
@@ -12,10 +11,10 @@ Use this filling with the  [Extra Flaky Pie Crust](PieCrust/ExtraFlakyPieCrust.m
 * Pastry brush
 
 ## Ingredients
-
+ .
 | Quantity | Ingredient                                                          |
 |---------:|:--------------------------------------------------------------------|
-|        1 | [Extra Flaky Pie Crust Dough](PieCrust/ExtraFlakyPieCrust.md)       |
+|        1 | [Extra Flaky Pie Crust Dough](PieCrust\ExtraFlakyPieCrust.md)       |
 |          |                                                                     |
 |    300 g | Diced rhubarb (about one supermarket bunch, two if feeling opulent) |
 |    500 g | strawberries, hulled and sliced if big, halved if tiny              |
@@ -23,7 +22,7 @@ Use this filling with the  [Extra Flaky Pie Crust](PieCrust/ExtraFlakyPieCrust.m
 |     50 g | light brown sugar                                                   |
 |   1 tbsp | lemon juice                                                         |
 |  1/4 tsp | salt                                                                |
-|  1/3 cup | quick-cooking tapioca (or arrowroot powder)                         |
+|  1/3 cup | quick-cooking tapioca balls (or arrowroot powder)                         |
 |          |                                                                     |
 |    30 gm | unsalted butter, cut into small pieces (approx 2 tbsp) ,optional    |
 |          |                                                                     |

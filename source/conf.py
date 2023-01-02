@@ -51,7 +51,9 @@ source_suffix = {
 # a list of builtin themes.
 #
 #html_theme = 'nature'
-#myst_heading_anchors = 3
+myst_heading_anchors = 3
+myst_all_links_external = False
+
 html_theme = 'sphinx_rtd_theme'
 html_theme_options = {    'logo_only': True,
     'display_version': True,
