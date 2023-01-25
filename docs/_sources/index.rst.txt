@@ -23,6 +23,7 @@ Recipe Collection
    docs/savory/Ramen.md
    docs/savory/NonnasSauce.md
    docs/savory/Okonomiyaki.md
+   docs/savory/BBQCauliflower.md
 
 
 Indices and tables
