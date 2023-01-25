@@ -11,6 +11,7 @@ recipe
 * Pastry brush
 
 ## Ingredients
+
  .
 | Quantity | Ingredient                                                          |
 |---------:|:--------------------------------------------------------------------|
@@ -22,13 +23,12 @@ recipe
 |     50 g | light brown sugar                                                   |
 |   1 tbsp | lemon juice                                                         |
 |  1/4 tsp | salt                                                                |
-|  1/3 cup | quick-cooking tapioca balls (or arrowroot powder)                         |
+|  1/3 cup | quick-cooking tapioca balls (or arrowroot powder)                   |
 |          |                                                                     |
-|    30 gm | unsalted butter, cut into small pieces (approx 2 tbsp) ,optional    |
+|    30 gm | unsalted butter, cut into small pieces (approx 2 tbsp) , optional   |
 |          |                                                                     |
 |        1 | egg yolk or some milk (for glaze)                                   |
 |          |                                                                     |
-
 
 ### Steps
 

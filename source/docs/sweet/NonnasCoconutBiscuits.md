@@ -1,6 +1,5 @@
 # Nonnas Coconut Biscuit
 
-
 ## Equipment
 
 * Mixing bowl

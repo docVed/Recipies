@@ -2,9 +2,7 @@
 
 ## Equipment
 
-
 ## Ingredients
-
 
 |     Quantity | Ingredient                                    |
 |-------------:|:----------------------------------------------|
@@ -55,4 +53,3 @@
 6.	After about 3 minutes, flip over pancake (bacon side down) and cook for 4 minutes.
 7.	Flip pancake again (bacon side up) and cook for 3 minutes or until firm and well browned.
 8. 	Remove to plate and drizzle with Kewpie mayonnaise, okonomi sauce and sprinkle with toppings.
-

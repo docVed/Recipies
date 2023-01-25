@@ -1,4 +1,5 @@
 (PieCrust_SweetTartCrust)=
+
 # Sweet Tart Crust
 
 ## Equipment
@@ -17,7 +18,7 @@ A silicone or plastic baking/dough mat is quite handy when rolling out the dough
 ## Ingredients
 
 | Ingredient         | 4 tarts | 2 tarts | 1 tart | unit        |
-| :----------------- | ------: | ------: | -----: | :---------- |
+|:-------------------|--------:|--------:|-------:|:------------|
 | Flour              |    1250 |     625 |    312 | g           |
 | Soft/melted Butter |     450 |     225 |    112 | g           |
 | Salt               |     1/2 |     1/4 |    1/8 | tsp         |

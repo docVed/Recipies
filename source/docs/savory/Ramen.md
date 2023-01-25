@@ -2,13 +2,12 @@
 
 ## Equipment
 
-- Stock pot
-- frying pan
-- small pot
-- zip-lock bag
+* Stock pot
+* frying pan
+* small pot
+* zip-lock bag
 
 ## Ingredients
-
 
 |         Quantity | Ingredient                                      |
 |-----------------:|:------------------------------------------------|
@@ -92,11 +91,10 @@ Prepare ahead of time. Must marinate between 2 hours and 24 hours before serving
 2. Fry **corn** kernels in **butter** until they turn dark yellow.
 3. Separately fry **shitake** mushrooms until shrunken, but not browned.
    
+
 ### Assembly
 
 1. Serve a generous portion of broth into a large bowl (at least 2-3 ladles )
 2. Place half the noodles in the broth.
 3. Halve marinated eggs and place them around the bowl amongst the other toppings.
 4. sprinkle more sesame seeds on top if desired.
-
-

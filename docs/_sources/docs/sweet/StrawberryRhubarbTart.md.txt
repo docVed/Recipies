@@ -28,7 +28,6 @@
 | Cream                          |      250 | ml          |
 | Red food dye (optional)        |      1-2 | drop        |
 
-
 ## Steps
 
 1. Preheat oven to **130 C**.

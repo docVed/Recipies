@@ -12,7 +12,7 @@ They are the best when served fresh! A ranch dip or vegan mayo (recipe below) ar
 ## Ingredients
 
 |           Quantity | Ingredient             |
-| -----------------: | :--------------------- |
+|-------------------:|:-----------------------|
 |                    | **WINGS**              |
 |                    |                        |
 |   1/2 head (400 g) | cauliflower            |

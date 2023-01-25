@@ -10,7 +10,7 @@ This sauce is a base for use in other pasta sauces or lasagna.
 ## Ingredients
 
 | Quantity | Ingredient                                                 |
-| -------: | :--------------------------------------------------------- |
+|---------:|:-----------------------------------------------------------|
 |        2 | bay leaves                                                 |
 |        3 | basil leaves                                               |
 |        2 | sprigs of parsley                                          |
