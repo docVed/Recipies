@@ -32,6 +32,10 @@
 6. Cook for approximately 30 minutes in preheated oven. Check curd has been set by wobbling it, it should have a stiff jelly consistency.
    
 
+## Alternate Preserving method
+
+To set the curd by itself so it keeps longer. Pour unheated curd into jars, add to a deep pot and submerge with water, raise to boiling for 10 minutes, then turn off the heat and let cool down in the water for around 20 minutes before removing.
+
 ## Citrus Drizzle Sauce
 
 This sauce can be used as a drizzle on tarts, but also can be diluted with mineral water as a cordial.

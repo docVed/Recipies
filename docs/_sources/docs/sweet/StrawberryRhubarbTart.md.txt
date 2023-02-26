@@ -23,7 +23,7 @@
 | Lemon zest                     |        2 | tsp         |
 | Salt                           |      1/8 | tsp         |
 |                                |          |             |
-| Castor sugar                   |      200 | g           |
+| Castor sugar                   |      225 | g           |
 | Whole Eggs                     |        5 | medium eggs |
 | Cream                          |      250 | ml          |
 | Red food dye (optional)        |      1-2 | drop        |
@@ -39,29 +39,6 @@
 7. Pour heated filing through a sieve into the blind-baked tart base.
 8. Cook for approximately 30 minutes in preheated oven. Check curd has been set by wobbling it, it should have a stiff jelly consistency.
    
+## Alternate Preserving method
 
-## Citrus Drizzle Sauce
-
-This sauce can be used as a drizzle on tarts, but also can be diluted with mineral water as a cordial.
-
-### Equipment
-
-* Small pot
-* Whisk
-
-### Ingredients
-
-| Ingredient   |    Value | Unit |
-|:-------------|---------:|:-----|
-| Water        |      200 | ml   |
-| Orange Juice |      300 | ml   |
-| Lemon Juice  |      300 | ml   |
-| White Sugar  |      300 | g    |
-|              |          |      |
-| Lemon Zest   | to taste |      |
-
-### Steps
-
-1. Combine **water, orange/lemon juice** and **white sugar** in a pot. Bring to boil and simmer for **10 min**.
-2. Add **lemon zest** to the sauce and simmer for **15 min**.
-3. Take off heat and leave to cool in a bottle or jar.
+To set the curd by itself so it keeps longer. Pour unheated curd into jars, add to a deep pot and submerge with water, raise to boiling for 10 minutes, then turn off the heat and let cool down in the water for around 20 minutes before removing.
