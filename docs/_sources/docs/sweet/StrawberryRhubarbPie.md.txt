@@ -15,7 +15,7 @@ recipe
  .
 | Quantity | Ingredient                                                          |
 |---------:|:--------------------------------------------------------------------|
-|        1 | [Extra Flaky Pie Crust Dough](PieCrust\ExtraFlakyPieCrust.md)       |
+|        1 | [](PieCrust/ExtraFlakyPieCrust.md)                                  |
 |          |                                                                     |
 |    300 g | Diced rhubarb (about one supermarket bunch, two if feeling opulent) |
 |    500 g | strawberries, hulled and sliced if big, halved if tiny              |
@@ -23,7 +23,7 @@ recipe
 |     50 g | light brown sugar                                                   |
 |   1 tbsp | lemon juice                                                         |
 |  1/4 tsp | salt                                                                |
-|  1/3 cup | quick-cooking tapioca balls (or arrowroot powder)                   |
+|  1/4 cup | quick-cooking tapioca balls (or 1/3 cup arrowroot powder)           |
 |          |                                                                     |
 |    30 gm | unsalted butter, cut into small pieces (approx 2 tbsp) , optional   |
 |          |                                                                     |

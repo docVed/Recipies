@@ -38,7 +38,7 @@ To set the curd by itself so it keeps longer. Pour unheated curd into jars, add 
 
 ## Citrus Drizzle Sauce
 
-This sauce can be used as a drizzle on tarts, but also can be diluted with mineral water as a cordial.
+This sauce can be used as a drizzle on tarts but also can be diluted with mineral water as a cordial.
 
 ### Equipment
 
