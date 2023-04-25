@@ -20,8 +20,9 @@ Recipe Collection
    :maxdepth: 1
    :caption: Savory:
 
-   docs/savory/Ramen.md
    docs/savory/NonnasSauce.md
+   docs/savory/VegetarianLasagna
+   docs/savory/Ramen.md
    docs/savory/Okonomiyaki.md
    docs/savory/BBQCauliflower.md
 
