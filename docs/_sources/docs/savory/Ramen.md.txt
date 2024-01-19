@@ -40,7 +40,7 @@
 |                  | salt (to taste)                                 |
 |           ~1 tsp | white pepper                                    |
 |                  |                                                 |
-|             180g | ramen noodles                                   |
+|             100g | dry ramen noodles                               |
 |                  |                                                 |
 |                  | **TOPPINGS**                                    |
 |                  |                                                 |

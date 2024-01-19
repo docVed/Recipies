@@ -33,8 +33,8 @@ A silicone or plastic baking/dough mat is quite handy when rolling out the dough
 3. Slowly add **eggs** until smooth dough is formed, but do not over-work the dough.
 4. If making multiple tarts, split into multiple 600g balls.
 5. Can be stored in the fridge for a few hours to stiffen dough, making it easier to roll out without sticking.
-6. Roll out dough to ~36 cm diameter. if dough is at room temperature, roll between two sheets of baking paper to avoid it sticking.
-7. Put pastry in non stick or pre-buttered tart tin and trim edges.
+6. Roll out dough to ~36 cm diameter. if dough is at room temperature, lightly flour the outside and roll between two sheets of baking paper to avoid it sticking.
+7. Put pastry in non-stick or pre-buttered tart tin and trim edges.
 8. Line the base and sides of an uncooked pastry case with non-stick baking paper. Fill with rice, dried beans, or metal or ceramic baking weights. (This stops the pastry base rising during cooking.) Place on a baking tray and cook in an oven preheated to **220 C** for 8-10 minutes.
 9. Remove the pastry case from the oven and remove baking paper and weights. Cook for a further 5-10 minutes or until light golden.
 

@@ -15,6 +15,7 @@ Recipe Collection
    docs/sweet/PieCrust/PieCrust.rst
    docs/sweet/StrawberryRhubarbTart.md
    docs/sweet/StrawberryRhubarbPie.md
+   docs/sweet/StrawberryRhubarbJam.md
 
 .. toctree::
    :maxdepth: 1

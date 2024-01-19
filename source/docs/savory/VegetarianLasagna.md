@@ -26,17 +26,18 @@ This lasagna is a lightly tweaked take on Marisa's vegetarian lasagna.
 
 ## Notes
 
-1. The sauce may need to be diluted with water depending on what type of lasagna
+1. Blend the pasta sauce if it has chunks of vegetables in it.
+2. The sauce may need to be diluted with water depending on what type of lasagna
    sheet is used and how thick it is already. Fresh sheets need less water in
-   the sauce, while dry sheets require quite a thinner sauce. For dried sheets,
+   the sauce, while dry sheets require quite a thin sauce.  For dried sheets,
    the sauce must be around the viscosity of fruit nectar. A good way to test is
    to gently pick up the sauce with a fork. The sauce should mostly fall through
    the tines, but not be as thin as water.
-2. The various components (sauce, grilled vegetables, eggs) can be made a few
+3. The various components (sauce, grilled vegetables, eggs) can be made a few
    days ahead of time and refrigerated. 
-3. The lasagna itself can be assembled and partially cooked (no browning stage)
+4. The lasagna itself can be assembled and partially cooked (no browning stage)
    the day before then reheated and browned just before eating.
-4. If desired, the zucchini can instead be grated and incorporated into the
+5. If desired, the zucchini can be grated and incorporated into the
    sauce itself instead of grilling it, but the lasagna would need another
    ingredient like ricotta or roast capsicum/pumpkin added as a third filling
    layer. 
