@@ -13,7 +13,6 @@
  .
 | Ingredient   | quantity | Unit |
 |:-------------|---------:|:-----|
-|              |          |      |
 | Strawberries |      250 | g    |
 | Rhubarb      |      500 | g    |
 | Lemon juice  |        1 | tbsp |

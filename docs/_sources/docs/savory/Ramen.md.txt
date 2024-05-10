@@ -9,51 +9,51 @@
 
 ## Ingredients
 
-|         Quantity | Ingredient                                      |
-|-----------------:|:------------------------------------------------|
-|                  |                                                 |
-|                  | **RAMEN EGGS**                                  |
-|                  |                                                 |
-|          1/2 cup | soy sauce                                       |
-|           1 tbsp | mirin                                           |
-|            1 tsp | rice wine vinegar                               |
-|            1 tsp | chinese 5 spice powder                          |
-|                  |                                                 |
-|                4 | eggs                                            |
-|                  |                                                 |
-|                  | **BROTH**                                       |
-|                  |                                                 |
-|         1.5 tbsp | sesame seeds                                    |
-|                  |                                                 |
-|     3 tbsp (45g) | fresh ginger, minced minced (~6 cm of the root) |
-|                5 | garlic cloves, minced                           |
-|                1 | small brown onion, minced/very finely diced     |
-|           1 tbsp | sesame oil                                      |
-|                  |                                                 |
-|             225g | Quorn mince (or pork mince)                     |
-|                  |                                                 |
-|           1 tbsp | Doubanjiang: Spicy or Non-Spicy Bean Paste      |
-|     3 tbsp (60g) | yellow or red miso paste                        |
-|                  |                                                 |
-| 5 cups (1.25 lt) | vegetable stock (or dashi stock)                |
-|           1 tbsp | mirin                                           |
-|                  | salt (to taste)                                 |
-|           ~1 tsp | white pepper                                    |
-|                  |                                                 |
-|             100g | dry ramen noodles                               |
-|                  |                                                 |
-|                  | **TOPPINGS**                                    |
-|                  |                                                 |
-|                6 | Shitaki mushrooms                               |
-|                  |                                                 |
-|          1/2 cup | corn                                            |
-|           1 tbsp | unsalted butter                                 |
-|                  |                                                 |
-|                3 | green stalks from spring onion                  |
-|                2 | noori (sushi noori) cut into small rectangles   |
-|       *optional* | bok choi                                        |
-|       *optional* | chilli oil                                      |
-|       *optional* | sesame seeds                                    |
+|         Quantity | Ingredient                                    |
+|-----------------:|:----------------------------------------------|
+|                  |                                               |
+|                  | **RAMEN EGGS**                                |
+|                  |                                               |
+|          1/2 cup | soy sauce                                     |
+|           1 tbsp | mirin                                         |
+|            1 tsp | rice wine vinegar                             |
+|            1 tsp | chinese 5 spice powder                        |
+|                  |                                               |
+|                4 | eggs                                          |
+|                  |                                               |
+|                  | **BROTH**                                     |
+|                  |                                               |
+|         1.5 tbsp | sesame seeds  (or 1tbsp of tahini)            |
+|                  |                                               |
+|     3 tbsp (45g) | fresh ginger, minced (~6 cm of the root)      |
+|                5 | garlic cloves, minced                         |
+|                1 | small brown onion, minced/very finely diced   |
+|           1 tbsp | sesame oil                                    |
+|                  |                                               |
+|             225g | Quorn mince (or pork mince)                   |
+|                  |                                               |
+|           1 tbsp | Doubanjiang: Spicy or Non-Spicy Bean Paste    |
+|     3 tbsp (60g) | yellow or red miso paste                      |
+|                  |                                               |
+| 5 cups (1.25 lt) | vegetable stock (or dashi stock)              |
+|           1 tbsp | mirin                                         |
+|                  | salt (to taste)                               |
+|           ~1 tsp | white pepper                                  |
+|                  |                                               |
+|             100g | dry ramen noodles                             |
+|                  |                                               |
+|                  | **TOPPINGS**                                  |
+|                  |                                               |
+|                6 | Shitaki mushrooms                             |
+|                  |                                               |
+|          1/2 cup | corn                                          |
+|           1 tbsp | unsalted butter                               |
+|                  |                                               |
+|                3 | green stalks from spring onion                |
+|                2 | noori (sushi noori) cut into small rectangles |
+|       *optional* | bok choi                                      |
+|       *optional* | chilli oil                                    |
+|       *optional* | sesame seeds                                  |
 
 ## Method
 

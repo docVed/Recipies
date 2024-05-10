@@ -4,33 +4,31 @@
 
 ## Ingredients
 
-|     Quantity | Ingredient                                    |
-|-------------:|:----------------------------------------------|
-|         100g | Okonomiyaki Flour                             |
-|              |                                               |
-|              | **OR**                                        |
-|              |                                               |
-|          30g | Arrowroot flour                               |
-|          70g | Flour                                         |
-|              |                                               |
-|        160ml | Water                                         |
-| 2 (or 120ml) | Eggs (or Egg substitute)                      |
-|         300g | Wombok Cabbage, cut into  2-3mm x 3cm  strips |
-|     2 stalks | Green Onions, thinly sliced diagonally        |
-|              | Dashi packet                                  |
-|              |                                               |
-|              | **OPTIONAL**                                  |
-|              |                                               |
-|              | Bacon                                         |
-|              | Beni Shoga (Pickled Ginger)                   |
-|              |                                               |
-|              | **TOPPINGS**                                  |
-|              |                                               |
-|              | Kewpie Mayonnaise                             |
-|              | *Okonomi Sauce                                |
-|              | Fried shallots                                |
-|              | Avocado                                       |
-|              | Aonori (Seaweed Flakes)                       |
+|     Quantity | Ingredient                                        |
+|-------------:|:--------------------------------------------------|
+|         100g | Okonomiyaki Flour                                 |
+|              |                                                   |
+|              | **OR**                                            |
+|              |                                                   |
+|          30g | Arrowroot flour                                   |
+|          70g | Flour                                             |
+|              |                                                   |
+|        160ml | Water                                             |
+| 2 (or 120ml) | Eggs (or Egg substitute)                          |
+|         300g | Wombok Cabbage, cut into  2-3mm x 3cm  strips     |
+|     2 stalks | Green Onions, thinly sliced diagonally            |
+|          15g | Pickled Ginger, sliced into 1.5mm julienne strips |
+|              | Dashi packet                                      |
+|              |                                                   |
+|              | **OPTIONAL**                                      |
+|              | **TOPPINGS**                                      |
+|              |                                                   |
+|              | Bacon                                             |
+|              | Kewpie Mayonnaise                                 |
+|              | *Okonomi Sauce                                    |
+|              | Fried shallots                                    |
+|              | Avocado                                           |
+|              | Aonori (Seaweed Flakes)                           |
 
 \* if in a pinch, you can make okinomi sauce from the following ingredients  
 
