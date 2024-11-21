@@ -1,0 +1,40 @@
+(PieCrust_GfVenanTartCrust)=
+
+# Sweet Tart Crust
+
+## Equipment
+
+* Mixing bowl
+* Scales
+* Kitchen mixer (or elbow grease)
+* 20 or 24cm tart tin
+* Baking paper 
+* Dry rice, beans or ceramic baking beads
+```{note}
+A silicone or plastic baking/dough mat is quite handy when rolling out the dough. When a food safe flat surface is not available
+```
+
+## Ingredients
+
+| Ingredient           | 20 cm tin | 24 cm tin | unit |
+|:---------------------|----------:|----------:|:-----|
+| Almond meal          |        65 |       100 | g    |
+| Gluten free flour    |       105 |       160 | g    |
+| granulated Sugar     |        35 |        55 | g    |
+|                      |           |           |      |
+| Soft margarine       |        75 |       110 | g    |
+|                      |           |           |      |
+| cold water (or more) |        20 |        30 | g    |
+
+## Steps
+
+1. preheat oven to **180 C**.
+2. Mix Softened/melted **margarine, flour, sugar, almond meal** using a flat beater in a kitchen mixer until it is evenly mixed.
+3. Slowly add **water** until smooth dough is formed, but do not over-work the dough.
+4. Can be stored in the fridge for an hour to stiffen dough, making it put into the tin.
+5. Press the dough into the tart tin, ensuring an even coverage, using a flat spatula can make this easier.  Trim edges.
+6. Cook for a further 10-12 minutes at **180 C** or until light golden.
+
+## Cooking Notes
+
+* Ceramic baking dishes have more thermal inertia, so blind baking using the bottom heating element only cooks the dough more evenly.

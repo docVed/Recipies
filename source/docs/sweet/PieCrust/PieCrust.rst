@@ -9,3 +9,4 @@ Pie Crusts
    FlakyPieCrust.md
    SweetTartCrust.md
    GlutenFreePieCrust.md
+   GfVeganTartCrust.md
