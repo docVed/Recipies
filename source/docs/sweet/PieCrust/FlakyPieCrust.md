@@ -19,6 +19,7 @@ A silicone or plastic baking/dough mat is quite handy when rolling out the dough
 
 ## Ingredients
 
+Ingredients in the order they are required.
 | Quantity        | Ingredient            |
 |:----------------|:----------------------|
 | 325 grams       | all-purpose flour     |

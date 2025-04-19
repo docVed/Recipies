@@ -10,7 +10,7 @@
 
 ## Ingredients
 
- .
+Ingredients in the order they are required.
 | Ingredient   | quantity | Unit |
 |:-------------|---------:|:-----|
 | Strawberries |      250 | g    |

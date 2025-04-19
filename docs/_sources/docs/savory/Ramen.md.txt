@@ -9,6 +9,7 @@
 
 ## Ingredients
 
+Ingredients in the order they are required.
 |         Quantity | Ingredient                                    |
 |-----------------:|:----------------------------------------------|
 |                  |                                               |

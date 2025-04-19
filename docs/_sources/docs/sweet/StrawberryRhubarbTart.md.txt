@@ -12,7 +12,7 @@
 
 ## Ingredients
 
- .
+Ingredients in the order they are required.
 | Ingredient                     | quantity | Unit         |
 |:-------------------------------|---------:|:-------------|
 | [](PieCrust/SweetTartCrust.md) |        1 | crust        |

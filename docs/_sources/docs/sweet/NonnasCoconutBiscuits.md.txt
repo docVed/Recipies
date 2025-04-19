@@ -10,6 +10,7 @@
 
 ## Ingredients
 
+Ingredients in the order they are required.
 |   Quantity | Ingredient                |
 |-----------:|:--------------------------|
 |          3 | eggs                      |

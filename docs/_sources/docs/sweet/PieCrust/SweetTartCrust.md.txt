@@ -17,6 +17,7 @@ A silicone or plastic baking/dough mat is quite handy when rolling out the dough
 
 ## Ingredients
 
+Ingredients in the order they are required.
 | Ingredient         | 4 tarts |  2 tarts |  1 tart | unit        |
 |:-------------------|--------:|---------:|--------:|:------------|
 | Flour              |    1250 |      625 |     312 | g           |

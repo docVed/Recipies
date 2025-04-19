@@ -8,11 +8,19 @@ Recipe Collection
 
 .. toctree::
    :maxdepth: 1
+   :caption: Links:
+   
+   docs/Links.md
+
+.. toctree::
+   :maxdepth: 1
    :caption: Sweet:
 
-   docs/sweet/LemonTart.md
-   docs/sweet/NonnasCoconutBiscuits.md
    docs/sweet/PieCrust/PieCrust.rst
+   docs/sweet/NonnasCoconutBiscuits.md
+   docs/sweet/LemonTart.md
+   docs/sweet/ChocolateTart.md
+   docs/sweet/VeganGFLemonTart.md
    docs/sweet/StrawberryRhubarbTart.md
    docs/sweet/StrawberryRhubarbPie.md
    docs/sweet/StrawberryRhubarbJam.md

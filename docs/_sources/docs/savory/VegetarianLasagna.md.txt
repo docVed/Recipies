@@ -10,19 +10,21 @@ This lasagna is a lightly tweaked take on Marisa's vegetarian lasagna.
 
 ## Ingredients
 
-| Quantity | Ingredient                         |
-|---------:|:-----------------------------------|
-|        1 | [Pasta Sauce Base](NonnasSauce.md) |
-|          | water (see note 1.)                |
-|          |                                    |
-|     1 kg | zucchini (3 medium size)           |
-|   1.2 kg | eggplant (3 medium size)           |
-|          |                                    |
-|        8 | large eggs                         |
-|          |                                    |
-|     750g | lasagna sheets (ready to cook)     |
-|     800g | Dry Mozzarella                     |
-|     150g | Parmesan                           |
+Ingredients in the order they are required.
+| Quantity | Ingredient                     |
+|---------:|:-------------------------------|
+|        1 | [](NonnasSauce.md)             |
+|          | water (see note 1.)            |
+|          |                                |
+|     1 kg | zucchini (3 medium size)       |
+|   1.2 kg | eggplant (3 medium size)       |
+|          |                                |
+|        8 | large eggs                     |
+|          |                                |
+|     750g | lasagna sheets (ready to cook) |
+|     800g | Dry Mozzarella                 |
+|     150g | Parmesan                       |
+
 
 ## Notes
 

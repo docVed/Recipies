@@ -11,6 +11,7 @@ They are the best when served fresh! A ranch dip or vegan mayo (recipe below) ar
 
 ## Ingredients
 
+Ingredients in the order they are required.
 |           Quantity | Ingredient             |
 |-------------------:|:-----------------------|
 |                    | **WINGS**              |

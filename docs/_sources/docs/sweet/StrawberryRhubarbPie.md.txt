@@ -12,7 +12,7 @@ recipe
 
 ## Ingredients
 
- .
+Ingredients in the order they are required.
 | Quantity | Ingredient                                                          |
 |---------:|:--------------------------------------------------------------------|
 |        1 | [](PieCrust/ExtraFlakyPieCrust.md)                                  |
